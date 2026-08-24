@@ -192,5 +192,14 @@
       "Answer for What's sum of values in south.csv on Jan 11th? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787576299.139597,
+    "completed_at": 1787576300.555074,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
   }
 ]
