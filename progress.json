@@ -228,5 +228,14 @@
       "You still have uncommitted changes. Commit them first on the appropriate branch first!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787727716.81247,
+    "completed_at": 1787727718.152124,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
   }
 ]
